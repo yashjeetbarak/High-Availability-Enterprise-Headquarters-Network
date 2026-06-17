@@ -11,6 +11,20 @@
 ## Executive Summary
 Enterprise campus network focused on resiliency, redundancy, and business continuity. The solution implements HSRP gateway redundancy, EtherChannel, STP optimization, VLAN segmentation, and failover validation.
 
+## Project Objectives
+
+The primary objective of this project was to design, implement, and validate a highly available enterprise campus network capable of maintaining connectivity during infrastructure failures.
+
+Key goals included:
+
+* Implement gateway redundancy using HSRP
+* Increase resiliency through EtherChannel
+* Prevent Layer 2 loops using STP
+* Segment departments using VLANs
+* Validate failover behavior through testing
+* Develop enterprise troubleshooting skills
+
+
 ## Business Value
 
 This project was designed to simulate a highly available enterprise headquarters network capable of maintaining business operations during infrastructure failures.
