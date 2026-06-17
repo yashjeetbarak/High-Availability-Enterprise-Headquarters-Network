@@ -39,11 +39,11 @@ The design achieves this through:
 
 As a result, the network can continue operating during simulated gateway and link failures while maintaining access to critical business resources.
 
-## Network Architecture
+## Network Topology
 
-![Enterprise Campus Network](screenshots/banner.png)
+![Network Topology](screenshots/topology.png)
 
-*Figure 1: High Availability Enterprise Headquarters Network Architecture featuring HSRP, EtherChannel, STP optimization, VLAN segmentation, and redundant switching infrastructure.*
+*Figure 1: High Availability Enterprise Headquarters Network Architecture featuring HSRP gateway redundancy, EtherChannel link aggregation, STP optimization, VLAN segmentation, redundant switching paths, and enterprise failover validation.*
 
 ## Technologies
 HSRP • EtherChannel (LACP) • STP • VLANs • 802.1Q Trunking • High Availability
