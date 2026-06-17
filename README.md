@@ -6,6 +6,8 @@
 
 # High Availability Enterprise Headquarters Network
 
+![Banner](/screenshots/Banner2.jpeg)
+ 
 ## Executive Summary
 Enterprise campus network focused on resiliency, redundancy, and business continuity. The solution implements HSRP gateway redundancy, EtherChannel, STP optimization, VLAN segmentation, and failover validation.
 
