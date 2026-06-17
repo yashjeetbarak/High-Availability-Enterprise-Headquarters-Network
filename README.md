@@ -1,3 +1,9 @@
+![Cisco](https://img.shields.io/badge/Cisco-Packet_Tracer-blue)
+![HSRP](https://img.shields.io/badge/HSRP-Configured-success)
+![EtherChannel](https://img.shields.io/badge/EtherChannel-LACP-success)
+![STP](https://img.shields.io/badge/STP-Validated-success)
+![CCNA](https://img.shields.io/badge/CCNA-Level_Project-orange)
+
 # High Availability Enterprise Headquarters Network
 
 ## Executive Summary
