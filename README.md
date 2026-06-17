@@ -59,8 +59,19 @@ HSRP • EtherChannel (LACP) • STP • VLANs • 802.1Q Trunking • High Avai
 | Trunking      | show interfaces trunk            | VLAN propagation confirmed        |
 
 
-## Screenshots
-See screenshots folder for detailed verification evidence.
+## Key Validation Evidence
+
+### HSRP Active State
+
+![HSRP Active](screenshots/hsrp-active.png)
+
+### HSRP Failover
+
+![HSRP Failover](screenshots/hsrp-failover.png)
+
+### EtherChannel Validation
+
+![EtherChannel](screenshots/etherchannel-summary.png)
 
 ## Lessons Learned
 
