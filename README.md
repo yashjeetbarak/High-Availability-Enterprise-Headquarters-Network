@@ -41,7 +41,7 @@ As a result, the network can continue operating during simulated gateway and lin
 
 ## Network Topology
 
-![Network Topology](screenshots/topology.png)
+![Network Topology](screenshots/topologyy.png)
 
 *Figure 1: High Availability Enterprise Headquarters Network Architecture featuring HSRP gateway redundancy, EtherChannel link aggregation, STP optimization, VLAN segmentation, redundant switching paths, and enterprise failover validation.*
 
