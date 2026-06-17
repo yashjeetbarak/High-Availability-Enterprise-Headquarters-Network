@@ -48,12 +48,16 @@ As a result, the network can continue operating during simulated gateway and lin
 ## Technologies
 HSRP • EtherChannel (LACP) • STP • VLANs • 802.1Q Trunking • High Availability
 
-## Validation
-- HSRP Active Gateway Verified
-- HSRP Failover Successfully Tested
-- EtherChannel Operational
-- STP Root Bridge Verified
-- Trunking and VLAN Propagation Confirmed
+## Validation Results
+
+| Technology    | Verification Method              | Result                            |
+| ------------- | -------------------------------- | --------------------------------- |
+| HSRP          | show standby brief               | Active gateway verified           |
+| HSRP Failover | Simulated VLAN interface failure | Backup switch assumed Active role |
+| EtherChannel  | show etherchannel summary        | LACP operational                  |
+| STP           | show spanning-tree vlan 10       | Root bridge verified              |
+| Trunking      | show interfaces trunk            | VLAN propagation confirmed        |
+
 
 ## Screenshots
 See screenshots folder for detailed verification evidence.
